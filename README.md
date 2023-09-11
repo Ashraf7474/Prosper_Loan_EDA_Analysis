@@ -13,6 +13,18 @@ The problem addressed in this project is to decipher the influential variables a
 # OUR APPROACH FOR THE PROJECT
 ![Capture18](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/c5ddbbcd-5e48-4605-a62f-7552ba9a7a75)
 
+# Phases
+
+Data Collection: Acquire Prosper Loan data from Kaggle to serve as the foundation of the analysis.
+
+Data Cleaning and Organization: Process and structure the data, addressing missing values and ensuring consistency.
+
+Exploratory Data Analysis (EDA): Conduct a comprehensive analysis to unveil patterns, relationships, and insights within the dataset.
+
+Excel Dashboard Creation: Develop an interactive dashboard in Excel, utilizing charts and graphs to visualize EDA findings.
+
+Presentation Development: Compile the key insights and visualizations into a compelling presentation to effectively communicate the analysis outcomes.
+
 # User's Manual
 ![Capture14](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/955d0514-0cdc-4ff0-85ac-628399604f6d)
 
@@ -42,9 +54,30 @@ The problem addressed in this project is to decipher the influential variables a
 # Avg MonthlyLoanPayment according to loan category
 ![Capture23](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/3480ee5e-2005-4b4b-85f1-b459ff159855)
 
+# calculating Total Loan Amount , Total Amount Recovered and precentage of amount recovered
+![Uploading Capture24.PNG…]()
+
+
 # --Dashboard--
 
 ![Dashboard Image](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/c0960d16-a2ba-4a16-a7ef-be0c18573905)
+
+# Insights
+
+In 2003, there was a substantial increase in the number of loan applicants.
+
+During the years 2007 and 2008, more than 60% of loan applications were received.
+
+The average time required to complete loan repayment was 1.7 years.
+
+The majority of the loans issued were categorized as small loans.
+
+Most of the loan applicants were employed individuals.
+
+A significant portion of borrowers' average monthly income came from self-employment.
+
+Despite the high demand for loans and varied employment statuses, only 31% of the total loans issued were successfully recovered.
+
 
 
 
