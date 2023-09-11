@@ -14,6 +14,47 @@ The problem addressed in this project is to decipher the influential variables a
 ![Capture18](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/c5ddbbcd-5e48-4605-a62f-7552ba9a7a75)
 
 # User's Manual
+![Capture14](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/955d0514-0cdc-4ff0-85ac-628399604f6d)
+
+# Data Snapshots(few code snippets)
+![Capture15](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/7cfcf929-a188-49b4-bd83-ecf8052fd6e0)
+
+#  Aggregation on Different KPI’s
+
+# Number of loan by bringing year
+![Capture16](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/01b04d7c-96c1-49b6-a2ae-44df3047cf1f)
+
+# Number of loan are completed bring in year
+![Capture17](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/f5897d6c-b63a-42ef-b5a7-feb405dcf560)
+
+# Precentage of loan completed in year wise
+![Capture19](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/1c38417b-4d95-4ebd-9f15-2afa270353be)
+
+# AVG time required complete loan in year by loan_category wise
+![Capture20](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/da357767-0a02-42d1-9b8c-6a39dab3c453)
+
+# Count of Loan in different Loan_category
+![Capture21](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/698f4fea-3822-4e78-8b12-19200d259b9f)
+
+# Number of Brower according to EmploymentStatus and thier avg StatedMonthlyIncome
+![Capture22](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/4c493689-a8d4-4282-899c-b0cd09dfd2be)
+
+# Avg MonthlyLoanPayment according to loan category
+![Capture23](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/3480ee5e-2005-4b4b-85f1-b459ff159855)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
