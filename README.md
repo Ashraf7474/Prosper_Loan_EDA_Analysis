@@ -42,6 +42,10 @@ The problem addressed in this project is to decipher the influential variables a
 # Avg MonthlyLoanPayment according to loan category
 ![Capture23](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/3480ee5e-2005-4b4b-85f1-b459ff159855)
 
+# --Dashboard--
+
+![Dashboard Image](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/c0960d16-a2ba-4a16-a7ef-be0c18573905)
+
 
 
 
