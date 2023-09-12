@@ -60,7 +60,8 @@ Presentation Development: Compile the key insights and visualizations into a com
 ![Capture23](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/3480ee5e-2005-4b4b-85f1-b459ff159855)
 
 # calculating Total Loan Amount , Total Amount Recovered and precentage of amount recovered
-![Uploading Capture24.PNG…]()
+![Capture24](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/32a982a2-5b91-4f48-acd8-57106ce07c86)
+
 
 
 # --Dashboard--
