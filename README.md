@@ -36,7 +36,7 @@ Presentation Development: Compile the key insights and visualizations into a com
     ![Capture56](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/a9a88d36-d4c1-46dd-b293-7ba91d3a5bff)
 
 
-#  Aggregation on Different KPI’s
+#  Exploratory Data Analysis(EDA)
 
 # Number of loan by bringing year
 ![Capture16](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/01b04d7c-96c1-49b6-a2ae-44df3047cf1f)
