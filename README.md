@@ -4,16 +4,28 @@
 # Tools & Technologies used
 ![python-vs-excel-valeurs](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/4f29c581-cdd0-4862-af34-6366e338cea0)
 
-# Detailed Summary
-
-In this Prosper Loan EDA Analysis project, we delve into a comprehensive exploration of loan data from Prosper, uncovering valuable insights that shed light on borrowing trends, risk factors, and lending dynamics. Through meticulous data analysis and a meticulously crafted Excel dashboard, we present a concise visualization of key findings, empowering informed decision-making in the realm of lending and investment.
-
-The problem addressed in this project is to decipher the influential variables affecting loan outcomes and borrower risk within Prosper's lending platform. The aim is to construct a clear, data-driven understanding of these factors, aiding lenders in making prudent lending decisions and borrowers in optimizing their loan requests
 
 # OUR APPROACH FOR THE PROJECT
 ![Capture18](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/c5ddbbcd-5e48-4605-a62f-7552ba9a7a75)
 
-# Phases
+
+
+# User's Manual
+![Capture14](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/955d0514-0cdc-4ff0-85ac-628399604f6d)
+
+# --Introduction--
+
+In this Prosper Loan EDA Analysis project, we delve into a comprehensive exploration of loan data from Prosper, uncovering valuable insights that shed light on borrowing trends, risk factors, and lending dynamics. Through meticulous data analysis and a meticulously crafted Excel dashboard, we present a concise visualization of key findings, empowering informed decision-making in the realm of lending and investment.
+
+# --Problem and Aim to Solved--
+
+The problem addressed in this project is to decipher the influential variables affecting loan outcomes and borrower risk within Prosper's lending platform. The aim is to construct a clear, data-driven understanding of these factors, aiding lenders in making prudent lending decisions and borrowers in optimizing their loan requests
+
+# --Methodology--
+
+The methodology involves sourcing the Prosper Loan 2022 dataset from Kaggle, followed by a rigorous data cleaning and preprocessing phase. Subsequently, an in-depth Exploratory Data Analysis (EDA) is conducted to unearth patterns and insights. Finally, an interactive Excel dashboard is crafted, effectively visualizing the analyzed data and highlighting key trends and correlations for actionable decision-making.
+
+# --Phases--
 
 Data Collection: Acquire Prosper Loan data from Kaggle to serve as the foundation of the analysis.
 
@@ -25,8 +37,6 @@ Excel Dashboard Creation: Develop an interactive dashboard in Excel, utilizing c
 
 Presentation Development: Compile the key insights and visualizations into a compelling presentation to effectively communicate the analysis outcomes.
 
-# User's Manual
-![Capture14](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/955d0514-0cdc-4ff0-85ac-628399604f6d)
 
 # Data Snapshots(few code snippets)
 ![Capture15](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/7cfcf929-a188-49b4-bd83-ecf8052fd6e0)
