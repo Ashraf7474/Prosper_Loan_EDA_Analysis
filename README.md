@@ -31,6 +31,11 @@ Presentation Development: Compile the key insights and visualizations into a com
 # Data Snapshots(few code snippets)
 ![Capture15](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/7cfcf929-a188-49b4-bd83-ecf8052fd6e0)
 
+# Data Cleaning (few code snippets)
+ 1. Null Handling & Remove Noise Values
+    ![Capture56](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/a9a88d36-d4c1-46dd-b293-7ba91d3a5bff)
+
+
 #  Aggregation on Different KPI’s
 
 # Number of loan by bringing year
