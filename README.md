@@ -95,6 +95,15 @@ A significant portion of borrowers' average monthly income came from self-employ
 Despite the high demand for loans and varied employment statuses, only 31% of the total loans issued were successfully recovered.
 
 
+# Challenges Faced
+
+Throughout the Prosper Loan EDA Analysis project, we encountered several notable challenges. First and foremost, the data cleaning and preprocessing phase presented complexities due to inconsistent data formats and missing values, demanding meticulous attention to detail.
+
+The Exploratory Data Analysis (EDA) posed challenges in identifying meaningful patterns and correlations within a vast dataset, requiring advanced statistical techniques and domain expertise to interpret the findings effectively.
+
+Creating an interactive Excel dashboard that effectively represented the complex EDA results and conveyed them concisely to users demanded a high level of data visualization and Excel skills.
+
+
 
 
 
