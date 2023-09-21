@@ -7,8 +7,7 @@
 
 # OUR APPROACH FOR THE PROJECT
 ![Capture18](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/c5ddbbcd-5e48-4605-a62f-7552ba9a7a75)
-
-
+  
 
 # User's Manual
 ![Capture14](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/955d0514-0cdc-4ff0-85ac-628399604f6d)
